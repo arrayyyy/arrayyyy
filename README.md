@@ -1,7 +1,7 @@
 
 ## Banner
 
-![Array Banner](banner.png)
+![Array Banner](Array banner.png)
 
 ## Logo
 
