@@ -1,9 +1,10 @@
 
 ## Banner
 
-![Array Banner](Array banner.png)
+<img src="Array Banner.png" alt="Array Banner" >
 
-## Logo
+
+--
 
 <img src="array.png" alt="Array Logo" width="150">
 
