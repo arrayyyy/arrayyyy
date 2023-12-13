@@ -1,5 +1,4 @@
-# Array
-<img src="array.png" alt="Array Logo" width="150">
+
 ## Banner
 <img src="banner.png" alt="Array Banner" width="800" height="450">
 
@@ -24,7 +23,7 @@ Follow us on Instagram for bite-sized coding tips and tricks through engaging re
 Are you passionate about coding and eager to learn? Join our vibrant community of learners on Instagram and YouTube. We share valuable content that will sharpen your coding skills and keep you updated with the latest trends in the tech world.
 
 ## Explore Our Courses
-{Currently Courses are not available}
+{Currently Courses are not available}<br>
 Dive into the world of coding with Array's comprehensive courses. Whether you're a beginner or looking to advance your skills, we have something for everyone. Check out our courses [here](#) and start your coding journey today.
 
 ## Stay Updated
