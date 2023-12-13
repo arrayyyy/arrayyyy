@@ -1,3 +1,13 @@
+
+## Banner
+
+![Array Banner](banner.png)
+
+## Logo
+
+![Array Logo](array.png)
+
+---
 # Array - Learn to Code with Us!
 
 Welcome to Array, your go-to destination for high-quality programming courses! 🚀
@@ -30,14 +40,5 @@ Stay in the loop with our latest content, announcements, and course releases. Do
 - **Instagram:** [@arrayyyy](https://www.instagram.com/arrayreels)
 - **YouTube:** [Array on YouTube](https://www.youtube.com/@arrayyyy)
 
-## Banner
-
-![Array Banner](url_to_banner_image)
-
-## Logo
-
-![Array Logo](url_to_logo_image)
-
----
 
 **Happy coding! 🚀**
