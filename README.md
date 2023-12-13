@@ -1,7 +1,6 @@
 # Array
 <img src="array.png" alt="Array Logo" width="150">
-# Banner
-
+## Banner
 <img src="banner.png" alt="Array Banner" width="800" height="450">
 
 ---
