@@ -5,7 +5,7 @@
 
 ## Logo
 
-![Array Logo](array.png)
+<img src="url_to_logo_image" alt="Array Logo" width="150">
 
 ---
 # Array - Learn to Code with Us!
